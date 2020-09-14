@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "firstname": "Laxman ",
+      "lastname": "Narhare",
+      "email": "lnarhare@gmail.com",
+      "sex": "Male",
+      "Designation": "Frontend Developer",
+      "Number": "9766990151",
+      "userId": "108358999003927822007",
+      "id": 1
+    },
+    {
+      "firstname": "Govind momle",
+      "lastname": "ahdfkjadf",
+      "email": "rgv;kjrw ",
+      "sex": "Male",
+      "Designation": "Backend Developer",
+      "Number": "09764837",
+      "userId": "108358999003927822007",
+      "id": 2
+    },
+    {
+      "firstname": "ukydb",
+      "lastname": "uf uguyk",
+      "email": "igfundjkgh dj",
+      "sex": "Male",
+      "Designation": "Backend Developer",
+      "Number": "8725647389389",
+      "userId": "101232209109825097969",
+      "id": 3
+    }
+  ]
+}
